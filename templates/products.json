@@ -1,0 +1,50 @@
+{
+  "Energy Design": {
+    "included": [
+      {"title": "Baseline-Simulation", "text": "Dynamische Jahressimulation Ihres Gebäudes mit EnergyPlus in Stundenwerten."},
+      {"title": "3–5 Strategien", "text": "Maßnahmenpakete, abgestimmt auf Ihre Ziele und Randbedingungen."},
+      {"title": "Kosten & Wirtschaftlichkeit", "text": "Investition und Lebenszykluskosten über 30 Jahre nach EN 15459."},
+      {"title": "Energie, CO2 & CRREM", "text": "Endenergie, Emissionen und CRREM-Pfad je Strategie."},
+      {"title": "Bericht & Präsentation", "text": "Energy Report und gemeinsame Ergebnispräsentation."},
+      {"title": "12 Monate Plattformzugang", "text": "Data View und alle Strategien jederzeit online."}
+    ],
+    "excluded": [
+      {"title": "Ausführungsplanung", "text": "Leitungsführung, Detailplanung und Ausschreibung."},
+      {"title": "Normgerechte Heizlast", "text": "Die Heizlastberechnung nach Norm erstellt der Fachplaner."},
+      {"title": "Ökobilanz (LCA)", "text": "Graue Energie und Ökobilanz sind nicht Teil der Studie."},
+      {"title": "Förderantrag & Energieausweis", "text": "Als eigene Leistung buchbar."},
+      {"title": "Behördenabstimmung", "text": "Zum Beispiel mit der Denkmalpflege."},
+      {"title": "Planerhaftung", "text": "Die Fachplanerhaftung bleibt beim Planer."}
+    ]
+  },
+  "Value Engineering": {
+    "included": [
+      {"title": "Simulation des Planungsstands", "text": "Dynamische Jahressimulation des aktuellen Planungsstands (ab LOD 250)."},
+      {"title": "Prüfung der Auslegung", "text": "Vergleich mit den Werten des TGA-Planers, Hinweise auf Überdimensionierung."},
+      {"title": "CapEx-Optimierung", "text": "Einsparpotenziale bei Hülle und Anlagentechnik ohne Qualitätsverlust."},
+      {"title": "Kosten & Wirtschaftlichkeit", "text": "Investition (Sirados) und Lebenszykluskosten je Variante."},
+      {"title": "Bericht & Präsentation", "text": "Value Engineering Report und gemeinsame Ergebnispräsentation."},
+      {"title": "12 Monate Plattformzugang", "text": "Data View und alle Varianten jederzeit online."}
+    ],
+    "excluded": [
+      {"title": "Ausführungsplanung", "text": "Leitungsführung, Detailplanung und Ausschreibung."},
+      {"title": "Normgerechte Heizlast", "text": "Die Heizlastberechnung nach Norm erstellt der Fachplaner."},
+      {"title": "Ökobilanz (LCA)", "text": "Graue Energie und Ökobilanz sind nicht Teil der Studie."},
+      {"title": "Planerhaftung", "text": "Die Fachplanerhaftung bleibt beim Planer."}
+    ]
+  },
+  "Energy Performance Analytics": {
+    "included": [
+      {"title": "Datenanbindung", "text": "Schnittstelle zu Zählern bzw. GLT, bis zu 30 Datenpunkte inklusive."},
+      {"title": "Kalibrierte Baseline", "text": "Simulationsmodell, abgeglichen mit Ihren Messdaten."},
+      {"title": "Performance-Gap-Analyse", "text": "Vergleich von Soll und Ist, Ursachen für Abweichungen."},
+      {"title": "Betriebsoptimierung", "text": "Konkrete Hinweise zu Regelung, Sollwerten und Betriebszeiten."},
+      {"title": "12 Monate Plattformzugang", "text": "Kennzahlen und Auswertungen jederzeit online."}
+    ],
+    "excluded": [
+      {"title": "Hardware & Messtechnik", "text": "Einbau zusätzlicher Zähler oder Sensoren."},
+      {"title": "Eingriffe in die GLT", "text": "Wir lesen Daten, wir schreiben keine Regelparameter."},
+      {"title": "Planerhaftung", "text": "Die Verantwortung für den Anlagenbetrieb bleibt beim Betreiber."}
+    ]
+  }
+}

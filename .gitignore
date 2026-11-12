@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+# never publish customer data: example decks, transcripts, session notes
+reference/*.pdf
+*_Zusammenfassung_*.md
+kickoff/
+*.txt
